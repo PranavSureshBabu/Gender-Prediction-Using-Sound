@@ -1,2 +1,3 @@
 # Gender-Prediction-Using-Sound
 Link to the project - https://nbviewer.jupyter.org/github/PranavSureshBabu/Gender-Prediction-Using-Sound/blob/master/notebook.ipynb
+The main aim of this project is to find out the difference and sound of the gender prediction.The next thing is to find out the best selling authors from a particular period.We are using phonics to compare the number of unique values in data frames and finding out difference between them.The percentage will determine the whether its male or female author.In every year we see how many male ,female and unknown authors are best seller books.Finally at the end the graph displays the best selling author during the changes over time.
